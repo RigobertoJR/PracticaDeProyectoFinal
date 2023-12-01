@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
-
-cout << "Hola";
+cout << "Nose\n";
+cout << "Hola\n";
+cout << "Adios";
 
 return 0;
 }
